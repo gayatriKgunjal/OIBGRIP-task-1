@@ -1,0 +1,41 @@
+/* font-family: 'Ubuntu', sans-serif;*/
+/* Make Header Image Responsive;*/
+.back-image {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top: 74px;
+}
+
+.navbar #myMenu .custom-nav .nav-item a {
+    color: #fff;
+
+
+}
+
+.navbar #myMenu .custom-nav .nav-item a:hover {
+    color: #F0AA;
+
+
+}
+
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+a {
+    color: #DC3545
+}
+
+a:hover {
+    color: #E994A2;
+}
+
+.st {
+    font-size: 24px;
+}
